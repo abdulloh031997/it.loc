@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="23d5e9fc-78fc-45d7-b70c-a56adecbbf7e" name="itest.loc">
+        <fileTransfer rootFolder="/var/www/itest.uz" accessType="SFTP" host="91.190.159.68" port="2203" sshConfigId="a86e085c-32af-4cad-9632-90af0dce7a07" sshConfig="user@91.190.159.68:2203 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
